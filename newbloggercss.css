@@ -1,0 +1,91 @@
+/* font title bolder and smaller */
+
+.haXJ6e .UHwcef {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+
+/* Set Scheduled Color */
+.UNTnVe {
+    color: orangered;
+}
+
+.uZsIBe {
+    display: inline-flex;
+    flex-wrap: wrap;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+/* Label borders and alignment */
+.qtvRHc {
+     border: 0px solid #b0bec5; 
+     border-radius: 0px; 
+    text-align: left; 
+    color: blue;
+}
+
+/* Main Container removed margins */
+.n8rJwb {
+    margin-left: 0px; 
+   margin-right: 0px; 
+   max-width: 100%;
+}
+
+
+/* Outer Div for Label List on dashboard */
+.Q0PqBe {
+    align-self: left; 
+    flex: auto;
+    overflow: hidden;
+    margin-left: 10px;
+    line-height: 1;
+    margin-top: 0px;
+    display: block;
+}
+
+/* Label stuff. Not 100% ure*/
+.haXJ6e .qtvRHc {
+    padding: 0px 0px;
+    text-align: center;
+}
+
+
+/* Reduces the gap between post and inner padding*/
+.oqIa7e {
+    margin: 0 0 -1px 0;
+    padding: 6px;
+}
+
+/* Dashboard Filter Label Padding*/
+.OGidW {
+    padding: 2px 4px;
+}
+
+/* Author Name */
+.GLDMfb.UHwcef {
+    font-size: 10px !important;
+    color: saddlebrown;
+}
+
+/* Remove Comment Count */
+.jLK47 {
+    display: none;
+}
+
+/* Remove View Counter Icon */
+.jLa83d {
+    display: none;
+}
+
+/* View Counter Size and Color */
+span.dYZApe.NY7gZe {
+    font-size: 11px;
+    color: cadetblue;
+}
+
+/* Remove Profile Icon */
+.qlgjDe {
+    display: none;
+}
