@@ -1,8 +1,8 @@
-/* Version 0.6 */
+/* New Blogger Version 0.7 */
 
 /* font title bolder and smaller */
 .haXJ6e .UHwcef {
-    font-size: 14px;
+    font-size: 12px;
     font-weight: bold;
 }
 
@@ -11,6 +11,10 @@
 .haXJ6e .qtvRHc {
     padding: 0px 0px;
     text-align: center;
+}
+
+.haXJ6e .NY7gZe {
+    font-size: 12px;
 }
 
 /* Set Scheduled Color */
@@ -66,7 +70,7 @@
 
 /* Author Name */
 .GLDMfb.UHwcef {
-    font-size: 10px !important;
+    font-size: 12px !important;
     color: saddlebrown;
 }
 
@@ -155,19 +159,23 @@ span.wPZNb {
     padding-right: 340px;
 }
 
-/* Experimental */
-
 /* Move scheduled over - hard coded */
 .ngYWic {
     /* align-self: center; */
     flex: 0 0 auto;
     position: relative;
-    right: -80%;
+    right: -85%;
     width: 140px;
 }
 
-/* Labels fixed poition */
+/* Labels fixed position */
 .Q0PqBe {
     position: relative;
     left: -151px;
+}
+
+/* Draft Label Colour and Size */
+.haXJ6e .htI7vb {
+    color: #F44336;
+    font-size: 12px;
 }
