@@ -1,4 +1,4 @@
-/* Version 0.2 */
+/* Version 0.3 */
 
 /* font title bolder and smaller */
 .haXJ6e .UHwcef {
@@ -76,7 +76,8 @@
 }
 
 /* Remove View Counter Icon */
-.jLa83d {
+.rtpUCe.JB36v {
+    font-size: 18px;
     display: none;
 }
 
@@ -115,4 +116,9 @@ span.dYZApe.NY7gZe {
     border-top: 1px solid #cfd8dc;
     border-radius: 0px;
     box-shadow: none;
+}
+
+/* Remove .separator between scheduled text and date */
+span.wPZNb {
+    display: none;
 }
