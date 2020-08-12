@@ -7,6 +7,11 @@ Currently displays 6 more articles per page on a standard 1920 X 1440 Monitor
 
 **Version History**
 
+Version 0.4
+- Hoover over Tools reduced in size and now black
+- Label Filter Modal Font padding reduced
+- All Article labels are now clickable
+
 Version 0.3
 - Dot Separator between Post Status and Date removed
 - Fixed issue with schedule time being hidden
