@@ -5,6 +5,11 @@ This will provide a much cleaner and compact version of the Blogger Dashboard fo
 
 Currently displays 6 more articles per page on a standard 1920 X 1440 Monitor
 
+**Known Issues**
+
+- Modals for things like Delete Confirmation etc are the same size as the expanded Filter Label Modal
+
+
 **Version History**
 
 Version 0.5
@@ -39,5 +44,7 @@ Version 0.1 - Initial Version
 
 
 **Filter Screens**
+
 ![filter](dashboard-filter-modal.png)
+
 ![editor](editor-label.png)
