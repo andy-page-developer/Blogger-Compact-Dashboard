@@ -5,6 +5,10 @@ This will provide a much cleaner and compact version of the Blogger Dashboard fo
 
 **Version History**
 
+Version 0.3
+- Dot Separator between Post Status and Date removed
+- Fixed issue with schedule time being hidden
+
 Version 0.2 
 - Reduced Padding between row
 - Current Row highlighted
