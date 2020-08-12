@@ -7,6 +7,11 @@ Currently displays 6 more articles per page on a standard 1920 X 1440 Monitor
 
 **Version History**
 
+Version 0.5
+- Increased height of Label Filter Modal Window on Dashboard (Screenshot below)
+- Increased width of Labels section on the Editor (Screenshot below)
+- Decreased Padding and Font Size of Labels on both of the above (Screenshot below)
+
 Version 0.4
 - Hoover over Tools reduced in size and now black
 - Label Filter Modal Font padding reduced
@@ -31,3 +36,8 @@ Version 0.1 - Initial Version
 **AFTER**
 
 ![after](blogger-ui-after.png)
+
+
+**Filter Screens**
+![filter](dashboard-filter-modal.png)
+![editor](editor-label.png)
