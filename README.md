@@ -3,6 +3,8 @@ CSS Overrides for the New Blogger User Interface. Can be used with extensions li
 
 This will provide a much cleaner and compact version of the Blogger Dashboard for users who actually use a computer and a large monitor.
 
+Currently displays 6 more articles per page on a standard 1920 X 1440 Monitor
+
 **Version History**
 
 Version 0.3
