@@ -12,6 +12,10 @@ Currently displays 6 more articles per page on a standard 1920 X 1440 Monitor
 
 **Version History**
 
+Version 0.6
+- Scheduled, Draft and Published Text is now on the right
+- Increased space for Labels
+
 Version 0.5
 - Increased height of Label Filter Modal Window on Dashboard (Screenshot below)
 - Increased width of Labels section on the Editor (Screenshot below)
