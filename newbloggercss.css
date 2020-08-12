@@ -54,7 +54,7 @@
 /* Reduces the gap between post and inner padding*/
 .oqIa7e {
     margin: 0 0 -1px 0;
-    padding: 6px;
+    padding: 0px;
 }
 
 /* Dashboard Filter Label Padding*/
@@ -92,4 +92,25 @@ span.dYZApe.NY7gZe {
 /* Hide the Published Text */
 .gRzh8c.NY7gZe {
     display: none;
+}
+
+/* Highlight the hovered row */
+.vOSR6b:hover {
+    background-color: aliceblue;
+    border-top: 1px solid #cfd8dc;
+    border-radius: 0px;
+}
+
+/* Change the backgroun color to match the row hover color */
+.oqIa7e:focus-within .FeZNBc, .oqIa7e:hover .FeZNBc {
+    background-image: none;
+    background-color: aliceblue;
+}
+
+/* Change from box lines around a row to just top */
+.vOSR6b {
+    background-color: #fff;
+    border-top: 1px solid #cfd8dc;
+    border-radius: 0px;
+    box-shadow: none;
 }
