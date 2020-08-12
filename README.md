@@ -12,6 +12,11 @@ Currently displays 6 more articles per page on a standard 1920 X 1440 Monitor
 
 **Version History**
 
+Version 0.8
+- Toned down the Label color on the dashboard
+- Removed rounding of article thumbnails
+- Reduced height of both Label Filter Modal and Label List on Editor
+
 Version 0.7
 - Better font sizes for scheduled dates/times
 - Author name color and font changes
@@ -50,7 +55,7 @@ Version 0.1 - Initial Version
 
 **AFTER**
 
-![after](blogger-ui-after.png)
+![after](blogger-ui-after-v0.8.png)
 
 
 **Filter Screens**
