@@ -1,5 +1,3 @@
-/* Version 0.3 */
-
 /* font title bolder and smaller */
 .haXJ6e .UHwcef {
     font-size: 14px;
@@ -121,4 +119,10 @@ span.dYZApe.NY7gZe {
 /* Remove .separator between scheduled text and date */
 span.wPZNb {
     display: none;
+}
+
+/* Reduce size of hoover over tools and color to black */
+.DPvwYc {
+    font-size: 16px;
+    color: black;
 }
