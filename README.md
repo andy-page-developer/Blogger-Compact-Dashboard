@@ -5,9 +5,9 @@ This will provide a much cleaner and compact version of the Blogger Dashboard fo
 
 **BEFORE**
 
-![before](https://github.com/darkufo/newbloggerui/blob/master/blogger-ui-before.png)
+![before](blogger-ui-before.png)
 
 
 **AFTER**
 
-![after](https://github.com/darkufo/newbloggerui/blob/master/blogger-ui-after.png)
+![after](blogger-ui-after.png)
