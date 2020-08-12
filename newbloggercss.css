@@ -1,10 +1,15 @@
 /* font title bolder and smaller */
-
 .haXJ6e .UHwcef {
     font-size: 14px;
     font-weight: bold;
 }
 
+
+/* Label stuff. Not 100% ure*/
+.haXJ6e .qtvRHc {
+    padding: 0px 0px;
+    text-align: center;
+}
 
 /* Set Scheduled Color */
 .UNTnVe {
@@ -45,12 +50,6 @@
     display: block;
 }
 
-/* Label stuff. Not 100% ure*/
-.haXJ6e .qtvRHc {
-    padding: 0px 0px;
-    text-align: center;
-}
-
 
 /* Reduces the gap between post and inner padding*/
 .oqIa7e {
@@ -87,5 +86,10 @@ span.dYZApe.NY7gZe {
 
 /* Remove Profile Icon */
 .qlgjDe {
+    display: none;
+}
+
+/* Hide the Published Text */
+.gRzh8c.NY7gZe {
     display: none;
 }
