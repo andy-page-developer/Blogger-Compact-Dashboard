@@ -1,4 +1,5 @@
-/* New Blogger Version 0.7 */
+
+/* New Blogger Version 0.8 */
 
 /* font title bolder and smaller */
 .haXJ6e .UHwcef {
@@ -20,6 +21,7 @@
 /* Set Scheduled Color */
 .UNTnVe {
     color: orangered;
+    font-size: 12px;
 }
 
 .uZsIBe {
@@ -34,7 +36,7 @@
      border: 0px solid #b0bec5; 
      border-radius: 0px; 
     text-align: left; 
-    color: blue;
+    color:#2196f3;
 }
 
 /* Main Container removed margins */
@@ -96,10 +98,6 @@ span.dYZApe.NY7gZe {
     display: none;
 }
 
-/* Hide the Published Text */
-/* .gRzh8c.NY7gZe {
-    display: none;
-} */
 
 /* Highlight the hovered row */
 .vOSR6b:hover {
@@ -135,12 +133,12 @@ span.wPZNb {
 
 /* Increase Outer Label Filter Height */
 .g3VIld {
-    height: 40em;
+    height: 27em;
 }
 
 /* Increase Inner Label Filter Height */
 .vDfECb {
-    max-height: 500px;
+    max-height: 300px;
 }
 
 /* Edit Form Label Row Padding and font size */
@@ -158,6 +156,7 @@ span.wPZNb {
 .fmzcZd {
     padding-right: 340px;
 }
+
 
 /* Move scheduled over - hard coded */
 .ngYWic {
@@ -178,4 +177,9 @@ span.wPZNb {
 .haXJ6e .htI7vb {
     color: #F44336;
     font-size: 12px;
+}
+
+/* Remove rounded on thumbnails */
+.sRb2Nc.DMO9ie {
+    border-radius: 0px;
 }
