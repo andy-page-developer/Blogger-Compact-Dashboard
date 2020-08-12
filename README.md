@@ -3,6 +3,15 @@ CSS Overrides for the New Blogger User Interface. Can be used with extensions li
 
 This will provide a much cleaner and compact version of the Blogger Dashboard for users who actually use a computer and a large monitor.
 
+**Version History**
+
+Version 0.2 
+- Reduced Padding between row
+- Current Row highlighted
+- Removed Published Text
+
+Version 0.1 - Initial Version
+
 **BEFORE**
 
 ![before](blogger-ui-before.png)
