@@ -1,4 +1,4 @@
-/* Version 0.4 */
+/* Version 0.5 */
 
 /* font title bolder and smaller */
 .haXJ6e .UHwcef {
@@ -127,4 +127,25 @@ span.wPZNb {
 .DPvwYc {
     font-size: 16px;
     color: black;
+}
+
+/* Increase Outer Label Filter Height */
+.g3VIld {
+    height: 40em;
+}
+
+/* Increase Inner Label Filter Height */
+.vDfECb {
+    max-height: 500px;
+}
+
+/* Edit Form Label Row Padding and font size */
+.OGidW {
+    padding: 0px 4px !important;
+    font-size: 12px;
+}
+
+/* Increase the Width of the Sidebar in Edit Mode */
+.vW7mGd {
+    width: 320px;
 }
