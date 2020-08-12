@@ -12,6 +12,12 @@ Currently displays 6 more articles per page on a standard 1920 X 1440 Monitor
 
 **Version History**
 
+Version 0.7
+- Better font sizes for scheduled dates/times
+- Author name color and font changes
+- Draft label color change and font size
+- Better spacing of the right hand side info
+
 Version 0.6
 - Scheduled, Draft and Published Text is now on the right
 - Increased space for Labels
