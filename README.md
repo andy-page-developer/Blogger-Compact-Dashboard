@@ -12,6 +12,10 @@ Currently displays 6 more articles per page on a standard 1920 X 1440 Monitor
 
 **Version History**
 
+Version 0.9
+- Fixed the Row Select Tick Box
+- Reduced padding at top of Dashboard
+
 Version 0.8
 - Toned down the Label color on the dashboard
 - Removed rounding of article thumbnails
