@@ -1,12 +1,10 @@
-
-/* New Blogger Version 0.8 */
+/* New Blogger Version 0.9 */
 
 /* font title bolder and smaller */
 .haXJ6e .UHwcef {
     font-size: 12px;
     font-weight: bold;
 }
-
 
 /* Label stuff. Not 100% ure*/
 .haXJ6e .qtvRHc {
@@ -46,7 +44,6 @@
    max-width: 100%;
 }
 
-
 /* Outer Div for Label List on dashboard */
 .Q0PqBe {
     align-self: left; 
@@ -57,7 +54,6 @@
     margin-top: 0px;
     display: block;
 }
-
 
 /* Reduces the gap between post and inner padding*/
 .oqIa7e {
@@ -98,7 +94,6 @@ span.dYZApe.NY7gZe {
     display: none;
 }
 
-
 /* Highlight the hovered row */
 .vOSR6b:hover {
     background-color: aliceblue;
@@ -110,6 +105,12 @@ span.dYZApe.NY7gZe {
 .oqIa7e:focus-within .FeZNBc, .oqIa7e:hover .FeZNBc {
     background-image: none;
     background-color: aliceblue;
+}
+
+/* Editing Tools better padding and align flush to the right */
+.FeZNBc {
+    padding-top: 6px;
+    right: 0px;
 }
 
 /* Change from box lines around a row to just top */
@@ -157,7 +158,6 @@ span.wPZNb {
     padding-right: 340px;
 }
 
-
 /* Move scheduled over - hard coded */
 .ngYWic {
     /* align-self: center; */
@@ -176,10 +176,22 @@ span.wPZNb {
 /* Draft Label Colour and Size */
 .haXJ6e .htI7vb {
     color: #F44336;
-    font-size: 12px;
+    font-size: 10px;
 }
 
 /* Remove rounded on thumbnails */
 .sRb2Nc.DMO9ie {
     border-radius: 0px;
+}
+
+/* Reduce the main dashboard container padding */
+.n8rJwb {
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+
+/* Row Select Tick Box */
+.PPvste {
+    left: -15px;
 }
