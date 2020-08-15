@@ -12,6 +12,10 @@ Currently displays 6 more articles per page on a standard 1920 X 1440 Monitor
 
 **Version History**
 
+Version 0.91
+- Removed Thumnnail to increase space for article tites
+- Increased font size of the Draft label
+
 Version 0.9
 - Fixed the Row Select Tick Box
 - Reduced padding at top of Dashboard
@@ -59,7 +63,7 @@ Version 0.1 - Initial Version
 
 **AFTER**
 
-![after](blogger-ui-after-v0.8.png)
+![after](blogger-ui-after-v0.91.png)
 
 
 **Filter Screens**
