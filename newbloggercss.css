@@ -1,8 +1,70 @@
-/* New Blogger Version 0.9 */
+/* OLD BLOGGER */
+
+.K3JSBVB-c-a {
+    display: none;
+  }
+  
+  .K3JSBVB-c-c {
+    color: blue;
+    font-style: normal;
+    margin: 0;
+    opacity: 1;
+    text-decoration: none;
+  }
+  
+  .K3JSBVB-c-h {
+    font-size: 11px;
+  }
+  
+  .K3JSBVB-p-a {
+    font-size: 11px;
+    padding: 0px;
+  }
+  
+  .K3JSBVB-t-d {
+    display: none;
+  }
+  
+  .menuButtonItem {
+    font-size: 11px;
+    padding: 3px 3px;
+  }
+  
+  a.K3JSBVB-c-h {
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  
+  
+  div.K3JSBVB-U-b {
+    display: none;
+  }
+  
+  span.K3JSBVB-t-e {
+    color: red;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: bold;
+  }
+  
+  span.blogg-image-tooltip.K3JSBVB-d-a {
+    display: none;
+  }
+  
+  textarea.K3JSBVB-U-d {
+    height: 110px;
+  }
+  
+
+
+
+
+/* New Blogger Version 0.91 */
 
 /* font title bolder and smaller */
 .haXJ6e .UHwcef {
-    font-size: 12px;
+    font-size: 14px;
     font-weight: bold;
 }
 
@@ -98,6 +160,8 @@ span.dYZApe.NY7gZe {
 .vOSR6b:hover {
     background-color: aliceblue;
     border-top: 1px solid #cfd8dc;
+    border-left: 0px;
+    border-right: 0px;
     border-radius: 0px;
 }
 
@@ -119,7 +183,10 @@ span.dYZApe.NY7gZe {
     border-top: 1px solid #cfd8dc;
     border-radius: 0px;
     box-shadow: none;
+    border-left: 0px;
+    border-right: 0px;
 }
+
 
 /* Remove .separator between scheduled text and date */
 span.wPZNb {
@@ -176,7 +243,7 @@ span.wPZNb {
 /* Draft Label Colour and Size */
 .haXJ6e .htI7vb {
     color: #F44336;
-    font-size: 10px;
+    font-size: 12px;
 }
 
 /* Remove rounded on thumbnails */
@@ -195,3 +262,9 @@ span.wPZNb {
 .PPvste {
     left: -15px;
 }
+
+/* Remove Thumbnail */
+.jn15V {
+    display: none;
+}
+
