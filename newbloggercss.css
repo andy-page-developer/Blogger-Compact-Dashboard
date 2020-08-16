@@ -1,66 +1,4 @@
-/* OLD BLOGGER */
-
-.K3JSBVB-c-a {
-    display: none;
-  }
-  
-  .K3JSBVB-c-c {
-    color: blue;
-    font-style: normal;
-    margin: 0;
-    opacity: 1;
-    text-decoration: none;
-  }
-  
-  .K3JSBVB-c-h {
-    font-size: 11px;
-  }
-  
-  .K3JSBVB-p-a {
-    font-size: 11px;
-    padding: 0px;
-  }
-  
-  .K3JSBVB-t-d {
-    display: none;
-  }
-  
-  .menuButtonItem {
-    font-size: 11px;
-    padding: 3px 3px;
-  }
-  
-  a.K3JSBVB-c-h {
-    color: black;
-    font-size: 12px;
-    font-weight: bold;
-  }
-  
-  
-  div.K3JSBVB-U-b {
-    display: none;
-  }
-  
-  span.K3JSBVB-t-e {
-    color: red;
-    font-size: 11px;
-    font-style: normal;
-    font-weight: bold;
-  }
-  
-  span.blogg-image-tooltip.K3JSBVB-d-a {
-    display: none;
-  }
-  
-  textarea.K3JSBVB-U-d {
-    height: 110px;
-  }
-  
-
-
-
-
-/* New Blogger Version 0.91 */
+/* New Blogger Version 0.92 */
 
 /* font title bolder and smaller */
 .haXJ6e .UHwcef {
@@ -108,18 +46,20 @@
 
 /* Outer Div for Label List on dashboard */
 .Q0PqBe {
-    align-self: left; 
     flex: auto;
     overflow: hidden;
     margin-left: 10px;
     line-height: 1;
-    margin-top: 0px;
+    margin-top: -12px !important;
     display: block;
+    position: relative;
+    left: -150px;
 }
+
 
 /* Reduces the gap between post and inner padding*/
 .oqIa7e {
-    margin: 0 0 -1px 0;
+    margin: 0 0 -6px 0;
     padding: 0px;
 }
 
@@ -159,7 +99,7 @@ span.dYZApe.NY7gZe {
 /* Highlight the hovered row */
 .vOSR6b:hover {
     background-color: aliceblue;
-    border-top: 1px solid #cfd8dc;
+    border-top: 1px solid #e9f0f3;
     border-left: 0px;
     border-right: 0px;
     border-radius: 0px;
@@ -180,7 +120,7 @@ span.dYZApe.NY7gZe {
 /* Change from box lines around a row to just top */
 .vOSR6b {
     background-color: #fff;
-    border-top: 1px solid #cfd8dc;
+    border-top: 1px solid #e9f0f3;
     border-radius: 0px;
     box-shadow: none;
     border-left: 0px;
@@ -234,11 +174,7 @@ span.wPZNb {
     width: 140px;
 }
 
-/* Labels fixed position */
-.Q0PqBe {
-    position: relative;
-    left: -151px;
-}
+
 
 /* Draft Label Colour and Size */
 .haXJ6e .htI7vb {
@@ -268,3 +204,13 @@ span.wPZNb {
     display: none;
 }
 
+
+/* Reduce the row left pad */
+.VSOPnd {
+    padding-left: 6px;
+}
+
+/* Moves the post title closer to the horizontal row separator */
+.Bv5FY {
+    margin-top: -6px;
+}
