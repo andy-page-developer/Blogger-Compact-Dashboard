@@ -12,6 +12,10 @@ Currently displays 8 more articles per page on a standard 1920 X 1440 Monitor
 
 **Version History**
 
+Version 0.92
+- Reduced the space between post title and row separator bar
+- Reduced left padding of each row
+
 Version 0.91
 - Removed Thumnnail to increase space for article tites
 - Increased font size of the Draft label
