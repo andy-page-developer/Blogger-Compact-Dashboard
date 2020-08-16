@@ -8,7 +8,7 @@ Currently displays 8 more articles per page on a standard 1920 X 1440 Monitor
 **Known Issues**
 
 - Modals for things like Delete Confirmation etc are the same size as the expanded Filter Label Modal
-
+- All Icons are now colored black and smaller.
 
 **Version History**
 
