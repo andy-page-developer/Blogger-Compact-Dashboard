@@ -12,6 +12,10 @@ Currently displays 10 more articles per page on a standard 1920 X 1440 Monitor
 
 **Version History**
 
+Version 0.93
+- Reduced font size of Labels on the Editor
+- Labels on Editor colored to stand out
+
 Version 0.92
 - Reduced the space between post title and row separator bar
 - Reduced left padding of each row
