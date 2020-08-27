@@ -1,4 +1,14 @@
-/* New Blogger Version 0.92 */
+
+/* New Blogger Version 0.93 */
+
+/* Post Editor Label Box */
+.KHxj8b {
+    color: blue;
+    font-size:12px;
+    line-height: 20px;
+    height: 132px !important;
+}
+
 
 /* font title bolder and smaller */
 .haXJ6e .UHwcef {
@@ -9,6 +19,7 @@
 /* Label stuff. Not 100% ure*/
 .haXJ6e .qtvRHc {
     padding: 0px 0px;
+    font-size: 11px;
     text-align: center;
 }
 
@@ -55,7 +66,6 @@
     position: relative;
     left: -150px;
 }
-
 
 /* Reduces the gap between post and inner padding*/
 .oqIa7e {
@@ -115,6 +125,7 @@ span.dYZApe.NY7gZe {
 .FeZNBc {
     padding-top: 6px;
     right: 0px;
+    top: 8px;
 }
 
 /* Change from box lines around a row to just top */
@@ -126,7 +137,6 @@ span.dYZApe.NY7gZe {
     border-left: 0px;
     border-right: 0px;
 }
-
 
 /* Remove .separator between scheduled text and date */
 span.wPZNb {
@@ -174,8 +184,6 @@ span.wPZNb {
     width: 140px;
 }
 
-
-
 /* Draft Label Colour and Size */
 .haXJ6e .htI7vb {
     color: #F44336;
@@ -204,7 +212,6 @@ span.wPZNb {
     display: none;
 }
 
-
 /* Reduce the row left pad */
 .VSOPnd {
     padding-left: 6px;
@@ -213,4 +220,11 @@ span.wPZNb {
 /* Moves the post title closer to the horizontal row separator */
 .Bv5FY {
     margin-top: -6px;
+}
+
+/* Select All Left Aligned */
+.HJyrF {
+    display: flex;
+    height: 48px;
+    justify-content: flex-start;
 }
