@@ -1,12 +1,12 @@
 
-/* New Blogger Version 0.93 */
+/* New Blogger Version 0.94 */
 
 /* Post Editor Label Box */
 .KHxj8b {
     color: blue;
-    font-size:12px;
+    font-size:14px;
     line-height: 20px;
-    height: 132px !important;
+    /* height: 132px !important; */
 }
 
 
@@ -71,11 +71,6 @@
 .oqIa7e {
     margin: 0 0 -6px 0;
     padding: 0px;
-}
-
-/* Dashboard Filter Label Padding*/
-.OGidW {
-    padding: 2px 4px;
 }
 
 /* Author Name */
@@ -151,18 +146,18 @@ span.wPZNb {
 
 /* Increase Outer Label Filter Height */
 .g3VIld {
-    height: 27em;
+    /* height: 27em; */
 }
 
 /* Increase Inner Label Filter Height */
 .vDfECb {
-    max-height: 300px;
+    /* max-height: 300px; */
 }
 
 /* Edit Form Label Row Padding and font size */
 .OGidW {
-    padding: 0px 4px !important;
-    font-size: 12px;
+    padding: 8px 4px !important;
+    font-size: 16px;
 }
 
 /* Increase the Width of the Sidebar in Edit Mode */
