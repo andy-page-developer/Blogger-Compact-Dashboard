@@ -77,8 +77,3 @@ Version 0.1 - Initial Version
 ![after](blogger-ui-after-v0.91.png)
 
 
-**Filter Screens**
-
-![filter](dashboard-filter-modal.png)
-
-![editor](editor-label.png)
