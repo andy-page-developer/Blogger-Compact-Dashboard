@@ -7,13 +7,12 @@ Currently displays 10 more articles per page on a standard 1920 X 1440 Monitor
 
 **Known Issues**
 
-- Modals for things like Delete Confirmation etc are the same size as the expanded Filter Label Modal
-- All Icons are now colored black and smaller.
 
 **Version History**
 
 Version 0.94
 - With the new Blogger Labels update, we've updated the code to work better. Font size increased along with better padding
+- All Icons are now colored black and smaller.
 
 Version 0.93
 - Reduced font size of Labels on the Editor
