@@ -1,14 +1,16 @@
 # newbloggerui
-CSS Overrides for the New Blogger User Interface. Can be used with extensions like Stylebot that allow you to override the CSS of a particular page.
-
-**Stylebot Extension **
-https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en
+CSS Overrides for the New Blogger User Interface. Can be used with extensions like **Stylebot** that allow you to override the CSS of a particular page.
 
 This will provide a much cleaner and compact version of the Blogger Dashboard for users who actually use a computer and a large monitor. It currently displays 10 more articles per page on a standard 1920 X 1440 Monitor.
 
 NOTE: We will provide fixes to the this master but we will not be taking indivudual requests for changes/preferences etc The code should be fairly well documented so that you can change the colors, padding etc to suit your own tastes.
 
 You are more than welcome to fork this for your own preferences. 
+
+**Stylebot Extension **
+https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en
+
+Simply take the new CSS code and copy/paste it into your extensions CSS section.
 
 
 **Known Issues**
