@@ -1,4 +1,4 @@
-# newbloggerui
+# Blogger Compact Dashboard
 CSS Overrides for the New Blogger User Interface. Can be used with extensions like **Stylebot** that allow you to override the CSS of a particular page.
 
 This will provide a much cleaner and compact version of the Blogger Dashboard for users who actually use a computer and a large monitor. It currently displays 10 more articles per page on a standard 1920 X 1440 Monitor.
