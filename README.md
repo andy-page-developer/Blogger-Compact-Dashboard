@@ -11,7 +11,7 @@ Currently displays 10 more articles per page on a standard 1920 X 1440 Monitor
 **Version History**
 
 Version 0.951
--Fixed labl box width issue. 
+-Fixed label box width issue. 
 
 Version 0.95
 - The Labels section in the Blogger Editor will now remain open at all times.
