@@ -10,7 +10,12 @@ You are more than welcome to fork this for your own preferences.
 **Stylebot Extension **
 https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en
 
-Simply take the new CSS code and copy/paste it into your extensions CSS section.
+
+Simply take the new CSS code from here 
+
+https://github.com/darkufo/Blogger-Compact-Dashboard/blob/master/newbloggercss.css
+
+and copy/paste it into your extensions CSS section.
 
 
 **Known Issues**
