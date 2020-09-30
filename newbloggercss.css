@@ -9,13 +9,19 @@
 }
 
 
+/* Draft Label Colour and Size */
+.haXJ6e .htI7vb {
+    color: #F44336;
+    font-size: 12px;
+}
+
 /* font title bolder and smaller */
 .haXJ6e .UHwcef {
     font-size: 14px;
     font-weight: bold;
 }
 
-/* Label stuff. Not 100% ure*/
+/* Label stuff. Not 100% sure*/
 .haXJ6e .qtvRHc {
     padding: 0px 0px;
     font-size: 11px;
@@ -47,12 +53,7 @@
     color:#2196f3;
 }
 
-/* Main Container removed margins */
-.n8rJwb {
-    margin-left: 0px; 
-   margin-right: 0px; 
-   max-width: 100%;
-}
+
 
 /* Outer Div for Label List on dashboard */
 .Q0PqBe {
@@ -66,11 +67,7 @@
     left: -150px;
 }
 
-/* Reduces the gap between post and inner padding*/
-.oqIa7e {
-    margin: 0 0 -6px 0;
-    padding: 0px;
-}
+
 
 /* Author Name */
 .GLDMfb.UHwcef {
@@ -100,13 +97,11 @@ span.dYZApe.NY7gZe {
     display: none;
 }
 
-/* Highlight the hovered row */
-.vOSR6b:hover {
-    background-color: aliceblue;
-    border-top: 1px solid #e9f0f3;
-    border-left: 0px;
-    border-right: 0px;
-    border-radius: 0px;
+
+/* Reduces the gap between post and inner padding*/
+.oqIa7e {
+    margin: 0 0 -6px 0;
+    padding: 0px;
 }
 
 /* Change the backgroun color to match the row hover color */
@@ -132,12 +127,21 @@ span.dYZApe.NY7gZe {
     border-right: 0px;
 }
 
+/* Highlight the hovered row */
+.vOSR6b:hover {
+    background-color: aliceblue;
+    border-top: 1px solid #e9f0f3;
+    border-left: 0px;
+    border-right: 0px;
+    border-radius: 0px;
+}
+
 /* Remove .separator between scheduled text and date */
 span.wPZNb {
     display: none;
 }
 
-/* Reduce size of hoover over tools and color to black */
+/* Reduce size of hover over tools and color to black */
 .DPvwYc {
     font-size: 16px;
     color: black;
@@ -169,22 +173,21 @@ span.wPZNb {
     width: 140px;
 }
 
-/* Draft Label Colour and Size */
-.haXJ6e .htI7vb {
-    color: #F44336;
-    font-size: 12px;
-}
+
 
 /* Remove rounded on thumbnails */
 .sRb2Nc.DMO9ie {
     border-radius: 0px;
 }
 
-/* Reduce the main dashboard container padding */
+/* Reduce the main dashboard container padding and margins */
 .n8rJwb {
     padding-left: 0px;
     padding-right: 0px;
     padding-top: 0px;
+    margin-left: 0px; 
+    margin-right: 0px; 
+    max-width: 100%;
 }
 
 /* Row Select Tick Box */
@@ -213,8 +216,8 @@ span.wPZNb {
     height: 48px;
     justify-content: flex-start;
 }
-
-/* Keeps Label Open */
-#i6 {
-    display: block !important;
+/* Unopened Labels Text */
+.dLSeoc {
+    color: cornflowerblue;
+    font-style: normal;
 }
