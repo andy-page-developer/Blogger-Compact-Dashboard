@@ -7,15 +7,25 @@ NOTE: We will provide fixes to the this master but we will not be taking indivud
 
 You are more than welcome to fork this for your own preferences. 
 
-**Stylebot Extension **
+1) Install the Stylebot Extension (other similar extensions should be compatible)
+
 https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en
 
-
-Simply take the new CSS code from here 
+2) Goto this link and copy all the CSS Code
 
 https://github.com/darkufo/Blogger-Compact-Dashboard/blob/master/newbloggercss.css
 
-and copy/paste it into your extensions CSS section.
+3) Goto www.blogger.com 
+
+4) Right click somewhere on the dashboard and select Stylebot, Style Element. 
+
+5) Click on the code tab at the bottom
+
+6) Delete anything that is already in there and then paste in CSS you copied from Step 2.
+
+7) Click the little X icon at the top right of the Stylebot Extension box and press F5 to refresh your Blogger Dashboard.
+
+Now whenever you visit the Blogger Dasboard you should have the Compact Version loaded.
 
 
 **Known Issues**
