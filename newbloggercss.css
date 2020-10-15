@@ -1,4 +1,4 @@
-/* New Blogger Version 0.951 */
+/* New Blogger Version 0.96 */
 
 /* Post Editor Label Box */
 .KHxj8b {
@@ -220,4 +220,45 @@ span.wPZNb {
 .dLSeoc {
     color: cornflowerblue;
     font-style: normal;
+}
+
+/* Comment Font Size */
+.Opvl3b {
+    font-size: 12px;
+}
+
+/* Comment Avatar */
+.RabdOe {
+    display: none;
+}
+
+/* Comment Padding */
+.a2M2Yc {
+    padding-left: 0px;
+}
+
+/* Comment Row Padding */
+.Zl8jqd {
+
+    padding-top: 8px;
+    padding-bottom: 2px;
+}
+
+/* Comment Date Font Size */
+.OGjyyf {
+        font-size: 12px;
+}
+
+/* Position Comment Text on Same Line as Comment Date and reduce padding */
+.a2M2Yc {
+    position: relative;
+    top: -24px;
+    left: 80px;
+    height: 20px;
+    margin-bottom: -12px;
+}
+
+/* Action Icon Position */
+.R7haVd {
+    margin-top: -8px;
 }
