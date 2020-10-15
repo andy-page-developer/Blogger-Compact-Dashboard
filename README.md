@@ -34,6 +34,9 @@ Now whenever you visit the Blogger Dasboard you should have the Compact Version 
 
 **Version History**
 
+Version 0.96
+- Added Compact Comments Page
+
 Version 0.951
 - Fixed label box width issue. 
 
